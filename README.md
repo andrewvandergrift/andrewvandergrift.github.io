@@ -26,3 +26,10 @@ Robotics & Autonomous Systems
 
 ### Naval Postgraduate School
 M.S. Candidate in Operations Analysis.
+
+## Projects
+
+### QR Code Generator
+A Streamlit web app that generates downloadable QR codes from text or URLs.
+
+[Live App](https://avandergriftqrcode.streamlit.app/) | [Source Code](https://github.com/andrewvandergrift/StreamlitQRCode)
