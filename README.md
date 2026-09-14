@@ -2,7 +2,7 @@
 
 ### Submarine Warfare Officer (In Training)
 
-**Interested In:** Operations Research, Data Analysis, Optimization, Robotics & Autonomous Systems, Defense Applications
+**Interested In:** Operations Research, Data Analysis, Optimization, Robotics & Autonomous Systems
 
 **Skills:** Python, R, Mathematical Optimization, Data Visualization, Engineering Analysis
 
@@ -25,5 +25,4 @@ Prospective Submarine Officer currently attending the Naval Postgraduate School.
 Robotics & Autonomous Systems
 
 ### Naval Postgraduate School
-
 M.S. Candidate in Operations Analysis.
