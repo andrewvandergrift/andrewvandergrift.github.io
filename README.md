@@ -8,9 +8,8 @@
 
 ## Contact Me
 
-- **Email:** your-email@nps.edu
+- **Email:** Andrew.Vandergrift@nps.edu
 - **GitHub:** [andrewvandergrift](https://github.com/andrewvandergrift)
-- **LinkedIn:** [LinkedIn Profile](YOUR-LINKEDIN-URL)
 
 ## Current Role
 
